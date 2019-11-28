@@ -1,0 +1,9 @@
+"","avg_correlation","factor_loading","weight"
+"READM_30_AMI_score",0.41,0.55,0.09
+"READM_30_CABG_score",0.3,0.34,0.044
+"READM_30_COPD_score",0.36,0.55,0.088
+"READM_30_HF_score",0.42,0.66,0.131
+"READM_30_HIP_KNEE_score",0.27,0.33,0.041
+"READM_30_HOSP_WIDE_score",0.5,0.88,0.439
+"READM_30_PN_score",0.41,0.66,0.13
+"READM_30_STK_score",0.27,0.3,0.038

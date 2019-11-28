@@ -1,0 +1,6 @@
+"","newcluster_id","median(readm_score, na.rm = T)","median(safety_score, na.rm = T)","median(exp_score, na.rm = T)","median(mort_score, na.rm = T)","median(eff_score, na.rm = T)","median(timeliness_score, na.rm = T)","median(medical_score, na.rm = T)"
+"1","1",-0.177,-0.096,-0.15,-0.1255,0.005,-0.2545,0.0245
+"2","2",-0.076,-0.0235,-0.068,-0.06,0.009,-0.091,0.042
+"3","3",-0.008,0.008,-0.007,-0.022,0.008,0.028,0.056
+"4","4",0.039,0.031,0.0385,0.011,0.01,0.075,0.069
+"5","5",0.096,0.039,0.106,0.083,0.005,0.131,0.082

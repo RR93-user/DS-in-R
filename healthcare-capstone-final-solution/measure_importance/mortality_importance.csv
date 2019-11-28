@@ -1,0 +1,8 @@
+"","avg_correlation","factor_loading","weight"
+"MORT_30_AMI_score",0.24,0.62,0.432
+"MORT_30_CABG_score",0.2,0.41,0.211
+"MORT_30_COPD_score",0.08,-0.17,-0.076
+"MORT_30_HF_score",0.06,-0.26,-0.12
+"MORT_30_PN_score",0.22,0.5,0.285
+"MORT_30_STK_score",0.2,0.35,0.171
+"PSI_4_SURG_COMP_Score",0.18,0.22,0.098

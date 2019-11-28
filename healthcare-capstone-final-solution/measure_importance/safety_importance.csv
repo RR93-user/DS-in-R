@@ -1,0 +1,9 @@
+"","avg_correlation","factor_loading","weight"
+"HAI_1_SIR",0.21,0.41,0.176
+"HAI_2_SIR",0.25,0.62,0.352
+"HAI_3_SIR",0.21,0.36,0.148
+"HAI_4_SIR",0.19,0.28,0.109
+"HAI_5_SIR",0.18,0.22,0.082
+"HAI_6_SIR",0.17,0.14,0.051
+"COMP_HIP_KNEE_Score",0.14,0.02,0.005
+"PSI_90_SAFETY_Score",0.2,0.21,0.077

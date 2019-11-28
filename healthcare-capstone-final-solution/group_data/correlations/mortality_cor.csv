@@ -1,0 +1,8 @@
+"","MORT_30_AMI_score","MORT_30_CABG_score","MORT_30_COPD_score","MORT_30_HF_score","MORT_30_PN_score","MORT_30_STK_score","PSI_4_SURG_COMP_Score"
+"MORT_30_AMI_score",1,0.29,-0.08,-0.16,0.3,0.21,0.13
+"MORT_30_CABG_score",0.29,1,-0.08,-0.13,0.18,0.09,0.06
+"MORT_30_COPD_score",-0.08,-0.08,1,-0.02,-0.11,-0.11,-0.06
+"MORT_30_HF_score",-0.16,-0.13,-0.02,1,-0.13,-0.09,-0.06
+"MORT_30_PN_score",0.3,0.18,-0.11,-0.13,1,0.21,0.12
+"MORT_30_STK_score",0.21,0.09,-0.11,-0.09,0.21,1,0.09
+"PSI_4_SURG_COMP_Score",0.13,0.06,-0.06,-0.06,0.12,0.09,1
