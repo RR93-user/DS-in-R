@@ -1,4 +1,4 @@
-# DS-in-R
+# EDA in R
 Data Science projects in R language
 
 EDA case study folder contains Uber demand and supply use case
